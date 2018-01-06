@@ -17,21 +17,14 @@ Practicals includes computer exercises supervised by lecturers and training assi
 <table style="width:100%">
    <tr>
      <td><img src="./img/cnr.png" alt="cnr" height="200" width="700"></td>
+      <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
      <tr/>
 </table>
 
-<table style="width:100%">
- <tr>
-   <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
-   <tr/>
-
-</table>
-
-</table>
 
 <table style="width:100%">
  <tr>
-   <td>#popgenELIXIR <img src="./img/tw.png" alt="yay" height="100" width="100"></td>
+   <td><img src="./img/tw.png" alt="yay" height="100" width="100"> #popgenELIXIR  </td>
    <tr/>
 
 </table>
@@ -65,17 +58,7 @@ A maximum of 28 candidates will be accepted in the course. Priority will be give
 Registration fee includes course material, coffee breaks and lunches. 
 
 ## Venue
-Biblioteca 
-
-Consiglio Nazionale delle Ricerche
-
-Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" 
-
-via Pietro Castellino 111
-
-80131 Napoli - IT 
-
-www.igb.cnr.it
+<p>Biblioteca <br> Consiglio Nazionale delle Ricerche <br> Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" <br> via Pietro Castellino 111 <br> 80131 Napoli - IT <br> www.igb.cnr.it
 
 ## Transport 
 #### HOW TO REACH NAPOLI
