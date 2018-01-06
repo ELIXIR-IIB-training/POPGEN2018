@@ -44,9 +44,8 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 
 ## Important Dates 
-**Deadline for applications:** 5 February 2018
-
-**Chosen participants will be notified by:** 28 February 2018
+<p><b>Deadline for applications:</b> 5 February 2018 <br>
+   <b>Chosen participants will be notified by:</b> 28 February 2018 </p>
 
 **Payment deadline:** 10 March 2018  
 
