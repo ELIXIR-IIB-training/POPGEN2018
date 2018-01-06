@@ -1,4 +1,4 @@
-# Practical Course
+# PRACTICAL COURSE
 
 # Population Genomics: background and tools
 
