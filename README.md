@@ -24,7 +24,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
  <tr>
-   <td><img src="./img/tw.png" alt="yay" height="100" width="100"> #popgenELIXIR  </td>
+    <td><img src="./img/tw.png" alt="yay" height="100" width="100"> <b>#popgenELIXIR</b>  </td>
    <tr/>
 
 </table>
@@ -33,7 +33,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
  <tr>
-   <td>Aida Andrés <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100"> #popgenELIXIR  </td>
+   <td>  <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html"> <h2> Aida Andrés </h2></a> <br> <h3>Max Planck Institute for Evolutionary Anthropology, Germany </h3> <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100">  </td>
    <tr/>
 
 </table>
