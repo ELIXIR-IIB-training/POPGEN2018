@@ -16,7 +16,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/IGB-logo.jpg" alt="cnr" height="200" width="700"></td>
+     <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="200" width="700"></td>
       <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
      <tr/>
 </table>
@@ -30,7 +30,15 @@ Practicals includes computer exercises supervised by lecturers and training assi
 </table>
 
 ## Speakers 
-- Andrés Aida
+
+<table style="width:100%">
+ <tr>
+   <td>Aida Andrés <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100"> #popgenELIXIR  </td>
+   <tr/>
+
+</table>
+
+-  
 - Manica Andrea
 - Clark Andrew 
 - Hellenthal Garrett
@@ -78,17 +86,8 @@ Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one
 The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
 
 ## Contact
-Email: eliir.popgen.2018@gmail.com
+Email: elixr.popgen.2018@gmail.com
 Phone: +39 0816 132 254
-
-
-
-### Connections
-WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
-#### All raw data and software are available on the INFN machine
-
-
-
 
 
 ## Pompei - Ercolano
