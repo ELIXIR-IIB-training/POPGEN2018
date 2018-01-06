@@ -8,6 +8,11 @@
      <tr/>
 </table>
 
+Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this EMBO Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
+
+Practicals includes computer exercises supervised by lecturers and training assistants. After attending the course participants will be aware of up-to-date concepts in population genetics, capable of running analyses using software based on whole genome data sequences and able to deal with basic aspects of any population genomics project. This EMBO Practical Course aims at evolutionary biologists who already have bioinformatics skills. PhD students and Post-Doc researchers will benefit the most out of this course, but applications from all candidates will be evaluated in their context.
+
+
 
 <table style="width:100%">
    <tr>
@@ -22,23 +27,16 @@
 
 </table>
 
-##  #popgenELIXIR
 </table>
 
 <table style="width:100%">
  <tr>
-   <td><img src="./img/tw.png" alt="yay" height="100" width="100"></td>
+   <td>#popgenELIXIR <img src="./img/tw.png" alt="yay" height="100" width="100"></td>
    <tr/>
 
 </table>
 
-
-## Connections
-WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
-
-## Timetable
-
-#### Speakers 
+## Speakers 
 - Andrés Aida
 - Manica Andrea
 - Clark Andrew 
@@ -49,6 +47,51 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 - Delaneau Olivier 
 - Gerbault Pascale 
 
+## Programme
+
+
+## Important Dates 
+Deadline for applications: 5 February 2018
+Chosen participants will be notified by: 28 February 2018
+Payment deadline: 10 March 2018  
+Course date: 21-27 April 2018
+
+A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
+ 
+## Registration fee: 500€
+Registration fee includes course material, coffee breaks and lunches. 
+
+## Venue
+Biblioteca - Consiglio Nazionale delle Ricerche - Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" - via Pietro Castellino 111 - 80131 Napoli - IT 
+www.igb.cnr.it
+
+## Transport 
+#### HOW TO REACH NAPOLI
+
+#### ARRIVING IN NAPLES BY TRAIN
+
+The central train stations is "Napoli Centrale" or "Napoli Piazza Garibaldi" (the same location). To book a train there are two train companies: Trenitalia and Italo. The train station is connected to the city by the metro Linea1.
+
+#### ARRIVING IN NAPLES BY PLANE
+
+From the International Airport Napoli Capodichino there are two ways to reach the city centre or the train station:
+
+Bus - There is a bus called Alibus that you can take at the airport. Tickets are available on board (4 euros, only cash) or at the newspaper/souvenir shop in the airport ground floor (3 euros) and are valid for metro as well. The bus has two stops: first Piazza Garibaldi i.e. by the central train station, and second is by the city harbour where ships for the gulf islands leave.
+
+Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one of the zones included in the offer. For the city centre or the train station it costs 16 euros, for Vomero area 23 euros. It is mandatory for taxi drivers to apply the fixed fare if required. Ask for the cost before starting the ride.
+
+#### HOW TO REACH THE BIBLIOTECA AT CNR
+
+The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
+
+## Contact
+Email: eliir.popgen.2018@gmail.com
+Phone: +39 0816 132 254
+
+
+
+### Connections
+WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 #### All raw data and software are available on the INFN machine
 
 
