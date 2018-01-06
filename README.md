@@ -16,7 +16,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="200" width="700"></td>
+     <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
       <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
      <tr/>
 </table>
@@ -33,7 +33,11 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
  <tr>
-   <td>  <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html"> <h2> Aida Andrés </h2></a> <br> <h3>Max Planck Institute for Evolutionary Anthropology, Germany </h3> <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100">  </td>
+   <td>  <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html"> <h3> Aida Andrés </h3></a> <br>
+      <h4>Max Planck Institute for Evolutionary Anthropology, Germany </h4> 
+    </td>
+    <td>
+      <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100">  </td>
    <tr/>
 
 </table>
