@@ -37,7 +37,8 @@ Practicals includes computer exercises supervised by lecturers and training assi
       <h4>Max Planck Institute for Evolutionary Anthropology, Germany </h4> 
     </td>
     <td>
-      <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100">  </td>
+      <img src="./img/speakers/Aida Andres.jpg" alt="yay" height="100" width="100">
+    </td>
    <tr/>
 
 </table>
