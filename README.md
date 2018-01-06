@@ -16,7 +16,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/cnr.png" alt="cnr" height="200" width="700"></td>
+     <td><img src="./img/IGB-logo.jpg" alt="cnr" height="200" width="700"></td>
       <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
      <tr/>
 </table>
@@ -46,8 +46,8 @@ Practicals includes computer exercises supervised by lecturers and training assi
 ## Important Dates 
 <p><b>Deadline for applications:</b> 5 February 2018 <br>
    <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
-   <b>Payment deadline:</b>10 March 2018<br>  
-   <b>Course date:</b>21-27 April 2018</p>
+   <b>Payment deadline:</b> 10 March 2018<br>  
+   <b>Course date:</b> 21-27 April 2018</p>
 
 
 A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
