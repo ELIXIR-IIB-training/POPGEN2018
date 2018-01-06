@@ -51,10 +51,13 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 
 ## Important Dates 
-Deadline for applications: 5 February 2018
-Chosen participants will be notified by: 28 February 2018
-Payment deadline: 10 March 2018  
-Course date: 21-27 April 2018
+**Deadline for applications:** 5 February 2018
+
+**Chosen participants will be notified by:** 28 February 2018
+
+**Payment deadline:** 10 March 2018  
+
+**Course date:** 21-27 April 2018
 
 A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
  
@@ -62,7 +65,16 @@ A maximum of 28 candidates will be accepted in the course. Priority will be give
 Registration fee includes course material, coffee breaks and lunches. 
 
 ## Venue
-Biblioteca - Consiglio Nazionale delle Ricerche - Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" - via Pietro Castellino 111 - 80131 Napoli - IT 
+Biblioteca 
+
+Consiglio Nazionale delle Ricerche
+
+Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" 
+
+via Pietro Castellino 111
+
+80131 Napoli - IT 
+
 www.igb.cnr.it
 
 ## Transport 
