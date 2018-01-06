@@ -45,11 +45,10 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 ## Important Dates 
 <p><b>Deadline for applications:</b> 5 February 2018 <br>
-   <b>Chosen participants will be notified by:</b> 28 February 2018 </p>
+   <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
+   <b>Payment deadline:</b>10 March 2018<br>  
+   <b>Course date:</b>21-27 April 2018</p>
 
-**Payment deadline:** 10 March 2018  
-
-**Course date:** 21-27 April 2018
 
 A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
  
