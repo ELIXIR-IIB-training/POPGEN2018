@@ -41,18 +41,87 @@ Practicals includes computer exercises supervised by lecturers and training assi
       <img src="./img/speakers/AidaAndres.jpg" alt="yay" height="100" width="100">
     </td>
    <tr/>
+   
+   <tr>
+      <td> 
+      <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a>
+     University of Cambridge, UK
+    </td>
+    <td>
+      <img src="./img/speakers/AndreaManica.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+   
+   <tr>
+      <td> 
+      <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a>
+      Cornell University, USA
+    </td>
+    <td>
+      <img src="./img/speakers/AndrewClark.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+   
+  
+    <tr>
+      <td> 
+      <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a>
+     University College London, UK
+    </td>
+    <td>
+      <img src="./img/speakers/GarrettHellenthal.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+   
+     <tr>
+      <td> 
+      <a href="https://idamoltke.wordpress.com/">Ida Moltke</a>
+      University of Copenhagen, Denmark
+    </td>
+    <td>
+      <img src="./img/speakers/IdaMoltke.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+   
+     <tr>
+      <td> 
+      <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a>
+      Natural History Museum of Denmark, Denmark
+    </td>
+    <td>
+      <img src="./img/speakers/MartinSikora.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+     <tr>
+      <td> 
+      <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a>
+      Université de Genève, Switzerland
+    </td>
+    <td>
+      <img src="./img/speakers/MathiasCurrat.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
+     <tr>
+      <td> 
+      <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a>
+     Université de Genève, Switzerland
+    </td>
+    <td>
+      <img src="./img/speakers/OlivierDelaneau.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
 
+  <tr>
+      <td> 
+      <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a>
+      University of Westminster, UK
+    </td>
+    <td>
+      <img src="./img/speakers/PascaleGerbault.jpg" alt="yay" height="100" width="100">
+    </td>
+   <tr/>
 </table>
 
--  
-- Manica Andrea
-- Clark Andrew 
-- Hellenthal Garrett
-- Moltke Ida 
-- Sikora Martin 
-- Currat Mathias 
-- Delaneau Olivier 
-- Gerbault Pascale 
 
 ## Programme
 
