@@ -298,12 +298,12 @@ Phone: +39 0816 132 254
      <td> 
       <a href="https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/research-and-teaching-staff-pages/chiara-batini">Chiara Batini </a><br>
      University of Leicester, UK <br>
-     <img src="./img/organisers/ChiaraBatini.jpg" alt="yay" >
+     <img src="./img/organisers/ChiaraBatiniOK.jpg" alt="yay" >
     </td>
      <td> 
       <a href="http://www.igb.cnr.it/popgenlab">Vincenza Colonna </a><br>
       Consiglio Nazionale delle Ricerche, Italy<br>
-      <img src="./img/organisers/VincenzaColonna.jpg" alt="yay" >
+      <img src="./img/organisers/VincenzaColonnaOK.jpg" alt="yay" >
     </td>
    <tr/>
    
