@@ -30,8 +30,6 @@ Practicals includes computer exercises supervised by lecturers and training assi
 </table>
 
 
-### APPLY NOW [add link] ! 
-
 ## Speakers 
 
 <table style="width:100%">
@@ -88,14 +86,6 @@ Practicals includes computer exercises supervised by lecturers and training assi
     </td>
    <tr/>
 </table>
-
-
-
-
-
-
-
-
 
 
 ## Programme
@@ -166,11 +156,15 @@ Practicals includes computer exercises supervised by lecturers and training assi
    <b>Payment deadline:</b> 10 March 2018<br>  
    <b>Course date:</b> 21-27 April 2018</p>
 
-
-A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.
  
 ## Registration fee: 500€
-Registration fee includes course material, coffee breaks and lunches. 
+<p>Registration fee includes course material, coffee breaks and lunches. <br>
+A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
+Incomplete applications or applications for only parts of the course will not be accepted <br>
+Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
+
+### APPLY NOW [add link] ! 
+
 
 ## Venue
 <p>Biblioteca <br> Consiglio Nazionale delle Ricerche <br> Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" <br> via Pietro Castellino 111 <br> 80131 Napoli - IT <br> www.igb.cnr.it
