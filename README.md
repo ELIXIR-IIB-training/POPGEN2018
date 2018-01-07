@@ -48,7 +48,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
      University of Cambridge, UK
     </td>
     <td>
-      <img src="./img/speakers/AndreaManica.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/AndreaManica.jpeg" alt="yay" height="100" width="100">
     </td>
    <tr/>
    
@@ -58,7 +58,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Cornell University, USA
     </td>
     <td>
-      <img src="./img/speakers/AndrewClark.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/AndrewClark.png" alt="yay" height="100" width="100">
     </td>
    <tr/>
    
@@ -82,12 +82,12 @@ Practicals includes computer exercises supervised by lecturers and training assi
     </td>
    <tr/>
    
-     <tr>
-      <td> 
+   <tr>
+    <td> 
       <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a>
-      Natural History Museum of Denmark, Denmark
-    </td>
-    <td>
+       Natural History Museum of Denmark, Denmark
+   </td>
+   <td>
       <img src="./img/speakers/MartinSikora.jpg" alt="yay" height="100" width="100">
     </td>
    <tr/>
