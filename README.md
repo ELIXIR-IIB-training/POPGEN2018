@@ -58,7 +58,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Cornell University, USA
     </td>
     <td>
-      <img src="./img/speakers/AndrewClark.png" alt="yay" >
+      <img src="./img/speakers/AndrewClarOK.png" alt="yay" >
     </td>
    <tr/>
    
@@ -68,7 +68,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
        University College London, UK
     </td>
     <td>
-      <img src="./img/speakers/GarrettHellenthal.jpg" alt="yay">
+      <img src="./img/speakers/GarrettHellenthalOK.jpg" alt="yay">
     </td>
    <tr/>
    
@@ -78,7 +78,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       University of Copenhagen, Denmark
     </td>
     <td>
-      <img src="./img/speakers/IdaMoltke.jpg" alt="yay" >
+      <img src="./img/speakers/IdaMoltkeOK.jpg" alt="yay" >
     </td>
    <tr/>
    
@@ -88,7 +88,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
        Natural History Museum of Denmark, Denmark
    </td>
    <td>
-      <img src="./img/speakers/MartinSikora.jpg" alt="yay">
+      <img src="./img/speakers/MartinSikoraOK.jpg" alt="yay">
     </td>
    <tr/>
      <tr>
