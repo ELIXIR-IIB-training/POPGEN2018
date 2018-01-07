@@ -123,6 +123,15 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 
 ## Programme
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 | Day | Time | Speaker/session title/topic | 
 | :---- | :----- |:---------|  | 
 | Day 1 Apr 21 | 9:00-9:30 | Coffee and registration | 
