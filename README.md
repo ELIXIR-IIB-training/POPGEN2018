@@ -29,6 +29,8 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 </table>
 
+
+## APPLY HERE! 
 ## Speakers 
 
 <table style="width:100%">
