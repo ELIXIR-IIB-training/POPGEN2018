@@ -36,17 +36,17 @@ Practicals includes computer exercises supervised by lecturers and training assi
  <tr>
    <td> 
       <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a>
-      Max Planck Institute for Evolutionary Anthropology, Germany
+      Max Planck Institute for Evolutionary Anthropology, Germany <br> 
       <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
     </td>
      <td> 
       <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a>
-     University of Cambridge, UK
+     University of Cambridge, UK <br>
      <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
     </td>
      <td> 
       <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a>
-      Cornell University, USA
+      Cornell University, USA<br>
       <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
     </td>
    <tr/>
@@ -86,6 +86,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
     </td>
    <tr/>
 </table>
+
 
 
 
