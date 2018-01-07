@@ -30,22 +30,22 @@ Practicals includes computer exercises supervised by lecturers and training assi
 </table>
 
 
-## APPLY HERE! 
+### APPLY NOW! 
 
 <table style="width:100%">
  <tr>
    <td> 
-      <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a>
+      <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a> <br>
       Max Planck Institute for Evolutionary Anthropology, Germany <br> 
       <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
     </td>
      <td> 
-      <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a>
+      <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a><br>
      University of Cambridge, UK <br>
      <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
     </td>
      <td> 
-      <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a>
+      <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a><br>
       Cornell University, USA<br>
       <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
     </td>
@@ -53,41 +53,39 @@ Practicals includes computer exercises supervised by lecturers and training assi
    
    <tr>
     <td> 
-      <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a>
-       University College London, UK
+      <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a><br>
+       University College London, UK<br>
        <img src="./img/speakers/GarrettHellenthalOK.jpg" alt="yay">
     </td>
     <td> 
-      <a href="https://idamoltke.wordpress.com/">Ida Moltke</a>
-      University of Copenhagen, Denmark
+      <a href="https://idamoltke.wordpress.com/">Ida Moltke</a><br>
+      University of Copenhagen, Denmark<br>
       <img src="./img/speakers/IdaMoltkeOK.jpg" alt="yay" >
     </td>
     <td> 
-      <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a>
-       Natural History Museum of Denmark, Denmark
+      <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a><br>
+       Natural History Museum of Denmark, Denmark<br>
        <img src="./img/speakers/MartinSikoraOK.jpg" alt="yay">
     </td>
     </tr> 
     <tr> 
     <td> 
-      <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a>
-      Université de Genève, Switzerland
+      <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a><br>
+      Université de Genève, Switzerland<br>
       <img src="./img/speakers/MathiasCurratOK.jpg" alt="yay" >
     </td>
     <td> 
-      <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a>
-     Université de Genève, Switzerland
+      <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a><br>
+     Université de Genève, Switzerland<br>
       <img src="./img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
     </td>
     <td> 
-      <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a>
-      University of Westminster, UK
+      <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a><br>
+      University of Westminster, UK<br>
       <img src="./img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
     </td>
    <tr/>
 </table>
-
-
 
 
 
