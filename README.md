@@ -1,6 +1,7 @@
 #### PRACTICAL COURSE
 
-# Population Genomics: background and tools
+# POPULATION GENOMICS: BACKGROUND AND TOOLS
+#### Naples, Italy 21-17 April 2018 
 
 <table style="width:100%">
    <tr>
