@@ -31,6 +31,67 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 
 ## APPLY HERE! 
+
+<table style="width:100%">
+ <tr>
+   <td> 
+      <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a>
+      Max Planck Institute for Evolutionary Anthropology, Germany
+      <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
+    </td>
+     <td> 
+      <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a>
+     University of Cambridge, UK
+     <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
+    </td>
+     <td> 
+      <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a>
+      Cornell University, USA
+      <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
+    </td>
+   <tr/>
+   
+   <tr>
+    <td> 
+      <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a>
+       University College London, UK
+       <img src="./img/speakers/GarrettHellenthalOK.jpg" alt="yay">
+    </td>
+    <td> 
+      <a href="https://idamoltke.wordpress.com/">Ida Moltke</a>
+      University of Copenhagen, Denmark
+      <img src="./img/speakers/IdaMoltkeOK.jpg" alt="yay" >
+    </td>
+    <td> 
+      <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a>
+       Natural History Museum of Denmark, Denmark
+       <img src="./img/speakers/MartinSikoraOK.jpg" alt="yay">
+    </td>
+    </tr> 
+    <tr> 
+    <td> 
+      <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a>
+      Université de Genève, Switzerland
+      <img src="./img/speakers/MathiasCurratOK.jpg" alt="yay" >
+    </td>
+    <td> 
+      <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a>
+     Université de Genève, Switzerland
+      <img src="./img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
+    </td>
+    <td> 
+      <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a>
+      University of Westminster, UK
+      <img src="./img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
+    </td>
+   <tr/>
+</table>
+
+
+
+
+
+
 ## Speakers 
 
 <table style="width:100%">
