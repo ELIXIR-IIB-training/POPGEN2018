@@ -124,60 +124,163 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 ## Programme
 
-| Day | Time | Speaker/session title/topic | 
-| :---- | :----- |:---------|  | 
-| Day 1 Apr 21 | 9:00-9:30 | Coffee and registration | 
-| Day 1 Apr 21 | 9:30-11:00 | Organizers Trainers and Participants / Welcome session / Introduction to the course, presentation of the course website and repository with all the material for the following days. Trainers and participants presentation: current position in science, course motivations, objectives and expectations. | 
-| Day 1 Apr 21 | 11:00-12:00 | Allegra Via (Organizer) / A survival guide / Assessment of participants for basic knowledge of linux necessary for the following sessions. Quick recapitulation of linux based on the assessment to ensure all participants are at the same level. | 
-| Day 1 Apr 21 | 12:00-13:00 | Andrew Clark/ Opening keynote lecture: Population Genomics: where are we going? / Overview of major achievements and current goals of population genomics. Include question session. | 
-| Day 1 Apr 21 | 13:00-14:15 | Lunch and coffee | 
-| Day 1 Apr 21 | 14:15-15:00 | Olivier Delaneau/ Lecture: Data QC and Exploratory Data Analysis /Basic operations to perform on genome sequences data sets before applying population genomic analyses. | 
-| Day 1 Apr 21 | 15:00-17:00 | Olivier Delaneau/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering methods to detect sample substructure (e.g. principal component analyses). | 
-| Day 2 Apr 22 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | 
-| Day 2 Apr 22 | 09:30-10:15 | Olivier Delaneau/ Lecture: Haplotype phasing and imputation / Attribution of alleles on maternal and paternal chromosomes to determine haplotypes, statistical inference of unobserved genotypes using known haplotypes in a population. | 
-| Day 2 Apr 22 | 10:15-12:30 | Olivier Delaneau/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on imputation and phasing using the softwares Impute, and Shapeit.Coffee will be available during the practicals. | 
-| Day 2 Apr 22 | 12:30-13:00 | Lunch | 
-| Day 2 Apr 22 | 13:30-14:15 | Andrew Clark/ Lecture: Forces shaping genetic diversity: recombination, mutation, selection, drift / An overview of basic concepts in population genomics in the light of the recent achievements and discoveries | 
-| Day 2 Apr 22 | 14:15-16:30 | Andrew Clark/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on classical and modern population genomics concepts.Coffee will be available during the practicals | 
-| Day 2 Apr 22 | 16:30-17:00 | Coffee break | 
-| Day 2 Apr 22 | 17:00-18:00 | Andrew Clark/ Lecture: Coalescence theory made fun and easy / Coalescent models describing genetic diversity in populations as consequence of their demographic history | 
-| Day 3 Apr 23 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | 
-| Day 3 Apr 23 | 09:30-10:15 | Ida Moltke/ Lecture: Inference of relatedness and identity by descent sharing / Relatedness inference and identical by descent sharing. | 
-| Day 3 Apr 23 | 10:15-10:30 | Coffee break | 
-| Day 3 Apr 23 | 10:30-12:30 | Ida Moltke/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing. | 
-| Day 3 Apr 23 | 12:30-13:30 | Lunch at the park near the venue | 
-| Day 3 Apr 23 | 13:30-15:30 | Andrew Clark/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper.Coffee will be available during the practicals | 
-| Day 3 Apr 23 | 15:30-16:00 | Coffee break | 
-| Day 3 Apr 23 | 16:00-18:00 | Poster session | 
-| Day 4 Apr 24 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | 
-| Day 4 Apr 24 | 09:30-10:15 | Martin Sikora/ Lecture: f3 and f4 statistics / Methods to detect population admixture from genomic data | 
-| Day 4 Apr 24 | 10:15-12:30 | Martin Sikora/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOFCoffee will be available during the practicals. | 
-| Day 4 Apr 24 | 12:30-13:30 | Lunch | 
-| Day 4 Apr 24 | 13:30-15:00 | Poster session | 
-| Day 4 Apr 24 | 15:00 onwards | Walk in Naples | 
-| Day 5 Apr 25 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day | 
-| Day 5 Apr 25 | 09:30-10:15 | Garrett Hellenthal/ Lecture: Clustering algorithms/ Partitioning of human genetic variation into a small number of groups to infer population structure and assign individuals to hypothesized ancestral groups | 
-| Day 5 Apr 25 | 10:15-10:30 | Coffee break | 
-| Day 5 Apr 25 | 10:30-12:30 | Garrett Hellenthal/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering using the software ADMIXTURE, CHROMOPAINTER/fineSTRUCTURE | 
-| Day 5 Apr 25 | 12:30-13:30 | Lunch at the park near the venue | 
-| Day 5 Apr 25 | 13:30-14:15 | Garrett Hellenthal/ Lecture: Haplotype-based methods for demography / Reconstruction of population demography (admixture, population splits and size changes) from genetic data using haplotypes | 
-| Day 5 Apr 25 | 14:15-16:30 | Garrett Hellenthal/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on inferring population demography (admixture population splits and size changes) using the software MSMC/PSMC and GLOBETROTTER. Coffee will be available during the practicals. | 
-| Day 6 Apr 26 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day | 
-| Day 6 Apr 26 | 09:30-10:15 | Mathias Currat/ Lecture: Gene-genealogy methods for demography, Approximate Bayesian Computation / Reconstruction of population demography from genetic data using coalescent simulations and Approximate Bayesian Computation. | 
-| Day 6 Apr 26 | 10:15-10:30 | Coffee break | 
-| Day 6 Apr 26 | 10:30-12:30 | Mathias Currat/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on ABC using the software fastSIMCOAL | 
-| Day 6 Apr 26 | 12:30-13:30 | Lunch at the park near the venue | 
-| Day 6 Apr 26 | 13:30-14:15 | Pascale Gerbault/ Lecture: Types and measurements of natural selection / Mechanisms through which new advantageous genetic variants become fixed in populations and natural selection favors extreme phenotypes in changing environments. | 
-| Day 6 Apr 26 | 14:15-16:30 | Pascale Gerbault/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on detecting natural selection. Coffee will be available during the practicals. | 
-| Day 6 Apr 26 | 17:00-18:00 | Andrea Manica/ Keynote lecture: “Climate changes, demography and migrations in the context of human evolution” / How demography and natural selection can help understanding human diseases | 
-| Day 7 Apr 27 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | 
-| Day 7 Apr 27 | 09:30-10:15 | Andrea Manica/ Lecture: Selection: phenotypes and genotypes / Selection scans and GWASs:examples and challenges | 
-| Day 7 Apr 27 | 10:15-10:30 | Coffee break | 
-| Day 7 Apr 27 | 10:30-12:30 | Andrea Manica/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on genome-wide detection of natural selection with explicit drivers (phenotype or environment) | 
-| Day 7 Apr 27 | 12:30-13:30 | Lunch at the park near the venue | 
-| Day 7 Apr 27 | 13:30-14:15 | Aida Andrés/ Lecture: Species divergence: the case of our close relatives / Genetic evolution of humans and closely related species, an example of how natural selection has shaped the affinities and differences that exist among individuals, populations and species | 
-| Day 7 Apr 27 | 14:15-16:30 | Aida Andrés/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on species divergence. Coffee will be available during the practicals.
+| Day | Time | Speaker/session title/topic | $
 
+
+| :---- | :----- |:---------|  | $
+
+
+| Day 1 Apr 21 | 9:00-9:30 | Coffee and registration | $
+
+
+| Day 1 Apr 21 | 9:30-11:00 | Organizers Trainers and Participants / Welcome session / Introduction to the course, presentation of the course website and repository with all the material for the following days. Trainers and participants presentation: current position in science, course motivations, objectives and expectations. | $
+
+
+| Day 1 Apr 21 | 11:00-12:00 | Allegra Via (Organizer) / A survival guide / Assessment of participants for basic knowledge of linux necessary for the following sessions. Quick recapitulation of linux based on the assessment to ensure all participants are at the same level. | $
+
+
+| Day 1 Apr 21 | 12:00-13:00 | Andrew Clark/ Opening keynote lecture: Population Genomics: where are we going? / Overview of major achievements and current goals of population genomics. Include question session. | $
+
+
+| Day 1 Apr 21 | 13:00-14:15 | Lunch and coffee | $
+
+
+| Day 1 Apr 21 | 14:15-15:00 | Olivier Delaneau/ Lecture: Data QC and Exploratory Data Analysis /Basic operations to perform on genome sequences data sets before applying population genomic analyses. | $
+
+
+| Day 1 Apr 21 | 15:00-17:00 | Olivier Delaneau/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering methods to detect sample substructure (e.g. principal component analyses). | $
+
+
+| Day 2 Apr 22 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | $
+
+
+| Day 2 Apr 22 | 09:30-10:15 | Olivier Delaneau/ Lecture: Haplotype phasing and imputation / Attribution of alleles on maternal and paternal chromosomes to determine haplotypes, statistical inference of unobserved genotypes using known haplotypes in a population. | $
+
+
+| Day 2 Apr 22 | 10:15-12:30 | Olivier Delaneau/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on imputation and phasing using the softwares Impute, and Shapeit.Coffee will be available during the practicals. | $
+
+
+| Day 2 Apr 22 | 12:30-13:00 | Lunch | $
+
+
+| Day 2 Apr 22 | 13:30-14:15 | Andrew Clark/ Lecture: Forces shaping genetic diversity: recombination, mutation, selection, drift / An overview of basic concepts in population genomics in the light of the recent achievements and discoveries | $
+
+
+| Day 2 Apr 22 | 14:15-16:30 | Andrew Clark/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on classical and modern population genomics concepts.Coffee will be available during the practicals | $
+
+
+| Day 2 Apr 22 | 16:30-17:00 | Coffee break | $
+
+
+| Day 2 Apr 22 | 17:00-18:00 | Andrew Clark/ Lecture: Coalescence theory made fun and easy / Coalescent models describing genetic diversity in populations as consequence of their demographic history | $
+
+
+| Day 3 Apr 23 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | $
+
+
+| Day 3 Apr 23 | 09:30-10:15 | Ida Moltke/ Lecture: Inference of relatedness and identity by descent sharing / Relatedness inference and identical by descent sharing. | $
+
+
+| Day 3 Apr 23 | 10:15-10:30 | Coffee break | $
+
+
+| Day 3 Apr 23 | 10:30-12:30 | Ida Moltke/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing. | $
+
+
+| Day 3 Apr 23 | 12:30-13:30 | Lunch at the park near the venue | $
+
+
+| Day 3 Apr 23 | 13:30-15:30 | Andrew Clark/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper.Coffee will be available during the practicals | $
+
+
+| Day 3 Apr 23 | 15:30-16:00 | Coffee break | $
+
+
+| Day 3 Apr 23 | 16:00-18:00 | Poster session | $
+
+
+| Day 4 Apr 24 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | $
+
+
+| Day 4 Apr 24 | 09:30-10:15 | Martin Sikora/ Lecture: f3 and f4 statistics / Methods to detect population admixture from genomic data | $
+
+
+| Day 4 Apr 24 | 10:15-12:30 | Martin Sikora/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOFCoffee will be available during the practicals. | $
+
+
+| Day 4 Apr 24 | 12:30-13:30 | Lunch | $
+
+
+| Day 4 Apr 24 | 13:30-15:00 | Poster session | $
+
+
+| Day 4 Apr 24 | 15:00 onwards | Walk in Naples | $
+
+
+| Day 5 Apr 25 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day | $
+
+
+| Day 5 Apr 25 | 09:30-10:15 | Garrett Hellenthal/ Lecture: Clustering algorithms/ Partitioning of human genetic variation into a small number of groups to infer population structure and assign individuals to hypothesized ancestral groups | $
+
+
+| Day 5 Apr 25 | 10:15-10:30 | Coffee break | $
+
+
+| Day 5 Apr 25 | 10:30-12:30 | Garrett Hellenthal/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering using the software ADMIXTURE, CHROMOPAINTER/fineSTRUCTURE | $
+
+
+| Day 5 Apr 25 | 12:30-13:30 | Lunch at the park near the venue | $
+
+
+| Day 5 Apr 25 | 13:30-14:15 | Garrett Hellenthal/ Lecture: Haplotype-based methods for demography / Reconstruction of population demography (admixture, population splits and size changes) from genetic data using haplotypes | $
+
+
+| Day 5 Apr 25 | 14:15-16:30 | Garrett Hellenthal/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on inferring population demography (admixture population splits and size changes) using the software MSMC/PSMC and GLOBETROTTER. Coffee will be available during the practicals. | $
+
+
+| Day 6 Apr 26 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day | $
+
+
+| Day 6 Apr 26 | 09:30-10:15 | Mathias Currat/ Lecture: Gene-genealogy methods for demography, Approximate Bayesian Computation / Reconstruction of population demography from genetic data using coalescent simulations and Approximate Bayesian Computation. | $
+
+
+| Day 6 Apr 26 | 10:15-10:30 | Coffee break | $
+
+
+| Day 6 Apr 26 | 10:30-12:30 | Mathias Currat/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on ABC using the software fastSIMCOAL | $
+
+
+| Day 6 Apr 26 | 12:30-13:30 | Lunch at the park near the venue | $
+
+
+| Day 6 Apr 26 | 13:30-14:15 | Pascale Gerbault/ Lecture: Types and measurements of natural selection / Mechanisms through which new advantageous genetic variants become fixed in populations and natural selection favors extreme phenotypes in changing environments. | $
+
+
+| Day 6 Apr 26 | 14:15-16:30 | Pascale Gerbault/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on detecting natural selection. Coffee will be available during the practicals. | $
+
+
+| Day 6 Apr 26 | 17:00-18:00 | Andrea Manica/ Keynote lecture: “Climate changes, demography and migrations in the context of human evolution” / How demography and natural selection can help understanding human diseases | $
+
+
+| Day 7 Apr 27 | 09:00-09:30 | Participants / Recap / Quick recapitulation of concepts from the day before assisted by organizers and speakers from previous day. | $
+
+
+| Day 7 Apr 27 | 09:30-10:15 | Andrea Manica/ Lecture: Selection: phenotypes and genotypes / Selection scans and GWASs:examples and challenges | $
+
+
+| Day 7 Apr 27 | 10:15-10:30 | Coffee break | $
+
+
+| Day 7 Apr 27 | 10:30-12:30 | Andrea Manica/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on genome-wide detection of natural selection with explicit drivers (phenotype or environment) | $
+
+
+| Day 7 Apr 27 | 12:30-13:30 | Lunch at the park near the venue | $
+
+
+| Day 7 Apr 27 | 13:30-14:15 | Aida Andrés/ Lecture: Species divergence: the case of our close relatives / Genetic evolution of humans and closely related species, an example of how natural selection has shaped the affinities and differences that exist among individuals, populations and species | $
+
+
+| Day 7 Apr 27 | 14:15-16:30 | Aida Andrés/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on species divergence. Coffee will be available during the practicals.
 
 ## Important Dates 
 <p><b>Deadline for applications:</b> 5 February 2018 <br>
