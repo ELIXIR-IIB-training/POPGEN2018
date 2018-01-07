@@ -58,7 +58,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Cornell University, USA
     </td>
     <td>
-      <img src="./img/speakers/AndrewClarOK.png" alt="yay" >
+      <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
     </td>
    <tr/>
    
@@ -97,7 +97,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Université de Genève, Switzerland
     </td>
     <td>
-      <img src="./img/speakers/MathiasCurrat.jpg" alt="yay" >
+      <img src="./img/speakers/MathiasCurratOK.jpg" alt="yay" >
     </td>
    <tr/>
      <tr>
@@ -106,7 +106,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
      Université de Genève, Switzerland
     </td>
     <td>
-      <img src="./img/speakers/OlivierDelaneau.jpg" alt="yay" >
+      <img src="./img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
     </td>
    <tr/>
 
@@ -116,7 +116,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       University of Westminster, UK
     </td>
     <td>
-      <img src="./img/speakers/PascaleGerbault.jpg" alt="yay" >
+      <img src="./img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
     </td>
    <tr/>
 </table>
