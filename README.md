@@ -38,7 +38,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Max Planck Institute for Evolutionary Anthropology, Germany
     </td>
     <td>
-      <img src="./img/speakers/AidaAndres.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
     </td>
    <tr/>
    
@@ -48,7 +48,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
      University of Cambridge, UK
     </td>
     <td>
-      <img src="./img/speakers/AndreaManica.jpeg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
     </td>
    <tr/>
    
@@ -58,7 +58,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Cornell University, USA
     </td>
     <td>
-      <img src="./img/speakers/AndrewClark.png" alt="yay" height="100" width="100">
+      <img src="./img/speakers/AndrewClark.png" alt="yay" >
     </td>
    <tr/>
    
@@ -68,7 +68,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
        University College London, UK
     </td>
     <td>
-      <img src="./img/speakers/GarrettHellenthal.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/GarrettHellenthal.jpg" alt="yay">
     </td>
    <tr/>
    
@@ -78,7 +78,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       University of Copenhagen, Denmark
     </td>
     <td>
-      <img src="./img/speakers/IdaMoltke.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/IdaMoltke.jpg" alt="yay" >
     </td>
    <tr/>
    
@@ -88,7 +88,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
        Natural History Museum of Denmark, Denmark
    </td>
    <td>
-      <img src="./img/speakers/MartinSikora.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/MartinSikora.jpg" alt="yay">
     </td>
    <tr/>
      <tr>
@@ -97,7 +97,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       Université de Genève, Switzerland
     </td>
     <td>
-      <img src="./img/speakers/MathiasCurrat.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/MathiasCurrat.jpg" alt="yay" >
     </td>
    <tr/>
      <tr>
@@ -106,7 +106,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
      Université de Genève, Switzerland
     </td>
     <td>
-      <img src="./img/speakers/OlivierDelaneau.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/OlivierDelaneau.jpg" alt="yay" >
     </td>
    <tr/>
 
@@ -116,7 +116,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
       University of Westminster, UK
     </td>
     <td>
-      <img src="./img/speakers/PascaleGerbault.jpg" alt="yay" height="100" width="100">
+      <img src="./img/speakers/PascaleGerbault.jpg" alt="yay" >
     </td>
    <tr/>
 </table>
