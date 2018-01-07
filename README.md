@@ -125,7 +125,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 ## Programme
 | Day | Time | Speaker/session title/topic | 
 | :---- | :----- |:---------| 
-|||Day 1 |
+|||### Day 1 |
 |Apr 21 | 9:00-9:30 | Coffee and registration | 
 |Apr 21 | 9:30-11:00 | Organizers Trainers and Participants / Welcome session / Introduction to the course, presentation of the course website and repository with all the material for the following s. Trainers and participants presentation: current position in science, course motivations, objectives and expectations. | 
 |Apr 21 | 11:00-12:00 | **Allegra Via (Organizer)** / A survival guide / Assessment of participants for basic knowledge of linux necessary for the following sessions. Quick recapitulation of linux based on the assessment to ensure all participants are at the same level. | 
