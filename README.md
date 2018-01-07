@@ -33,7 +33,8 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 <table style="width:100%">
  <tr>
-   <td>  <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html" > Aida Andrés < a> <br>
+   <td> 
+      <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a>
       Max Planck Institute for Evolutionary Anthropology, Germany
     </td>
     <td>
