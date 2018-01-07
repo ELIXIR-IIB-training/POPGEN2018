@@ -1,4 +1,4 @@
-# PRACTICAL COURSE
+#### PRACTICAL COURSE
 
 # Population Genomics: background and tools
 
@@ -62,19 +62,18 @@ Practicals includes computer exercises supervised by lecturers and training assi
     </td>
    <tr/>
    
-  
-    <tr>
-      <td> 
+   <tr>
+    <td> 
       <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a>
-     University College London, UK
+       University College London, UK
     </td>
     <td>
       <img src="./img/speakers/GarrettHellenthal.jpg" alt="yay" height="100" width="100">
     </td>
    <tr/>
    
-     <tr>
-      <td> 
+   <tr>
+    <td> 
       <a href="https://idamoltke.wordpress.com/">Ida Moltke</a>
       University of Copenhagen, Denmark
     </td>
