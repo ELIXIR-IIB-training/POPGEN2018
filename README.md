@@ -164,7 +164,7 @@ A maximum of 28 candidates will be accepted in the course. Priority will be give
 Incomplete applications or applications for only parts of the course will not be accepted <br>
 Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
 
-### APPLY NOW [add link] ! 
+### APPLY NOW [it will open very soon]! 
 
 
 ## Venue
