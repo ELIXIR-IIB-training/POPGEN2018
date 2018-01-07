@@ -30,7 +30,9 @@ Practicals includes computer exercises supervised by lecturers and training assi
 </table>
 
 
-### APPLY NOW! 
+### APPLY NOW [add link] ! 
+
+## Speakers 
 
 <table style="width:100%">
  <tr>
@@ -91,7 +93,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 
 
-## Speakers 
+
 
 <table style="width:100%">
  <tr>
@@ -283,6 +285,30 @@ The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this 
 ## Contact
 Email: elixr.popgen.2018@gmail.com
 Phone: +39 0816 132 254
+
+## Organizers 
+
+<table style="width:100%">
+ <tr>
+   <td> 
+      <a href="https://allegravia.github.io/website/publications/">Allegra Via  </a> <br>
+      Consiglio Nazionale delle Ricerche, Italy  <br> 
+      <img src="./img/organisers/AllegraVia.jpg" alt="yay" >
+    </td>
+     <td> 
+      <a href="https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/research-and-teaching-staff-pages/chiara-batini">Chiara Batini </a><br>
+     University of Leicester, UK <br>
+     <img src="./img/organisers/ChiaraBatini.jpg" alt="yay" >
+    </td>
+     <td> 
+      <a href="http://www.igb.cnr.it/popgenlab">Vincenza Colonna </a><br>
+      Consiglio Nazionale delle Ricerche, Italy<br>
+      <img src="./img/organisers/VincenzaColonna.jpg" alt="yay" >
+    </td>
+   <tr/>
+   
+  </table>
+
 
 
 ## Pompei - Ercolano
