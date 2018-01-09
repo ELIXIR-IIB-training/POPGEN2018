@@ -30,6 +30,20 @@ Practicals includes computer exercises supervised by lecturers and training assi
 
 </table>
 
+## Important Dates 
+<p><b>Deadline for applications:</b> 5 February 2018 <br>
+   <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
+   <b>Payment deadline:</b> 10 March 2018<br>  
+   <b>Course date:</b> 21-27 April 2018</p>
+
+ 
+## Registration fee: 500€
+<p>Registration fee includes course material, coffee breaks and lunches. <br>
+A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
+Incomplete applications or applications for only parts of the course will not be accepted <br>
+Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
+
+### APPLY NOW [it will open very soon]! 
 
 ## Speakers 
 
@@ -151,20 +165,6 @@ Practicals includes computer exercises supervised by lecturers and training assi
 |Apr 27 | 13:30-14:15 | **Aida Andrés**/ Lecture: Species divergence: the case of our close relatives / Genetic evolution of humans and closely related species, an example of how natural selection has shaped the affinities and differences that exist among individuals, populations and species | 
 |Apr 27 | 14:15-16:30 | **Aida Andrés**/ Practicals / Practical demonstrations (estimated 45' within practicals). Individual exercises on species divergence. Coffee will be available during the practicals.
 
-## Important Dates 
-<p><b>Deadline for applications:</b> 5 February 2018 <br>
-   <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
-   <b>Payment deadline:</b> 10 March 2018<br>  
-   <b>Course date:</b> 21-27 April 2018</p>
-
- 
-## Registration fee: 500€
-<p>Registration fee includes course material, coffee breaks and lunches. <br>
-A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
-Incomplete applications or applications for only parts of the course will not be accepted <br>
-Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
-
-### APPLY NOW [it will open very soon]! 
 
 
 ## Venue
