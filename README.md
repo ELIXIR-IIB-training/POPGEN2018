@@ -104,6 +104,318 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 
 
 ## Programme
+
+
+<table>
+   
+<table border="1">
+<tr>
+   <td colspan="4"><h3>Saturday 21 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td colspan="3">Coffee and registration</td>
+</tr>
+<tr>
+   <td>9:30-11:00</td>
+   <td>Welcome session</td>
+   <td>Organizers, Trainers and Participants</td>
+   <td>Introduction to the course, presentation of the course website and repository with all the material for the course. Trainers and participants presentation: current position in science, course motivations, objectives and expectations.</td>
+</tr>
+<tr>
+   <td>11:00-12:00</td>
+   <td>Practical</td>
+   <td>Allegra Via</td>
+   <td>Linux recap - Assessment of participants for basic knowledge of linux necessary for the following sessions. Quick recapitulation of linux based on the assessment to ensure all participants are at the same level.</td>
+</tr>
+<tr>
+   <td>12:00-13:00</td>
+   <td>Keynote lecture</td>
+   <td>Andrew Clark</td>
+   <td>Population Genomics: where are we going? - Overview of major achievements and current goals of population genomics.</td>
+</tr>
+<tr>
+   <td>13:00-14:15</td>
+   <td colspan="3">Lunch and coffee</td>
+</tr>
+<tr>
+   <td>14:15-15:00</td>
+   <td>Lecture</td>
+   <td>Olivier Delaneau</td>
+   <td>Data QC and Exploratory Data Analysis - Basic operations to perform on genome sequences data sets before applying population genomic analyses.</td>
+</tr>
+<tr>
+   <td>15:00-17:00</td>
+   <td>Practical</td>
+   <td>Olivier Delaneau</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering methods to detect sample substructure (e.g. principal component analyses).</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Sunday 22 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Olivier Delaneau</td>
+   <td>Haplotype phasing and imputation - Attribution of alleles on maternal and paternal chromosomes to determine haplotypes, statistical inference of unobserved genotypes using known haplotypes in a population.</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Olivier Delaneau</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on imputation and phasing using the software Impute, and Shapeit.</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-14:15</td>
+   <td>Lecture</td>
+   <td>Andrew Clark</td>
+   <td>Forces shaping genetic diversity: recombination, mutation, selection, drift - An overview of basic concepts in population genomics in the light of the recent achievements and discoveries.</td>
+</tr>
+<tr>
+   <td>14:15-16:30</td>
+   <td>Practical</td>
+   <td>Andrew Clark</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on classical and modern population genomics concepts. Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>16:30-17:00</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>17:00-18:00</td>
+   <td>Lecture</td>
+   <td>Andrew Clark</td>
+   <td>Coalescence theory made fun and easy / Coalescent models describing genetic diversity in populations as consequence of their demographic history.</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Monday 23 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Ida Moltke</td>
+   <td>Inference of relatedness and identity by descent sharing - Relatedness inference and identical by descent sharing.</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Ida Moltke</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing.</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-15:30</td>
+   <td>Practical</td>
+   <td>Andrew Clark</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper. Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>15:30-16:00</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>16:00-18:00</td>
+   <td colspan="3">Poster session</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Tuesday 24 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Martin Sikora</td>
+   <td>f3 and f4 statistics - Methods to detect population admixture from genomic data .</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Martin Sikora</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOFCoffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-15:00</td>
+   <td colspan="3">Poster session</td>
+</tr>
+<tr>
+   <td>15:00-19:00</td>
+   <td colspan="3">Walk in Naples</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Wednesday 25 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Garrett Hellenthal</td>
+   <td>Clustering algorithms - Partitioning of human genetic variation into a small number of groups to infer population structure and assign individuals to hypothesized ancestral groups.</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Garrett Hellenthal</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering using the software ADMIXTURE, CHROMOPAINTER/fineSTRUCTURE.</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-14:15</td>
+   <td>Lecture</td>
+   <td>Garrett Hellenthal</td>
+   <td>Haplotype-based methods for demography - Reconstruction of population demography (admixture, population splits and size changes) from genetic data using haplotypes.</td>
+</tr>
+<tr>
+   <td>14:15-16:30</td>
+   <td>Practical</td>
+   <td>Garrett Hellenthal</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on inferring population demography (admixture population splits and size changes) using the software MSMC/PSMC and GLOBETROTTER. Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Thursday 26 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Mathias Currat</td>
+   <td>Gene-genealogy methods for demography, Approximate Bayesian Computation - Reconstruction of population demography from genetic data using coalescent simulations and Approximate Bayesian Computation.</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Mathias Currat</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on ABC using the software fastSIMCOAL.</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-14:15</td>
+   <td>Lecture</td>
+   <td>Pascale Gerbault</td>
+   <td>Types and measurements of natural selection - Mechanisms through which new advantageous genetic variants become fixed in populations and natural selection favours extreme phenotypes in changing environments.</td>
+</tr>
+<tr>
+   <td>14:15-16:30</td>
+   <td>Practical</td>
+   <td>Pascale Gerbault</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on detecting natural selection. Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>16:30-17:00</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>17:00-18:00</td>
+   <td>Keynote lecture</td>
+   <td>Andrea Manica</td>
+   <td>“Climate changes, demography and migrations in the context of human evolution” - How demography and natural selection can help understanding human diseases.</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Friday 27 April 2018</h3></td>
+</tr>
+<tr>
+   <td>9:00-9:30</td>
+   <td>Recap session</td>
+   <td>Participants and Trainers</td>
+   <td>Quick recapitulation of concepts from the previous day</td>
+</tr>
+<tr>
+   <td>09:30-10:15</td>
+   <td>Lecture</td>
+   <td>Andrea Manica</td>
+   <td>Selection: phenotypes and genotypes / Selection scans and GWASs:examples and challenges.</td>
+</tr>
+<tr>
+   <td>10:15-10:30</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>10:30-12:30</td>
+   <td>Practical </td>
+   <td>Andrea Manica</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on genome-wide detection of natural selection with explicit drivers (phenotype or environment).</td>
+</tr>
+<tr>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch in the park</td>
+</tr>
+<tr>
+   <td>13:30-14:15</td>
+   <td>Lecture</td>
+   <td>Aida Andrés</td>
+   <td>Species divergence: the case of our close relatives - Genetic evolution of humans and closely related species, an example of how natural selection has shaped the affinities and differences that exist among individuals, populations and species.</td>
+</tr>
+<tr>
+   <td>14:15-16:30</td>
+   <td>Practical</td>
+   <td>Aida Andrés</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on species divergence. Coffee will be available during the practicals.</td>
+</tr>
+  </table>
+
 | Day | Time | Speaker/session title/topic | 
 | :---- | :----- |:---------| 
 ||**DAY 1** ||
