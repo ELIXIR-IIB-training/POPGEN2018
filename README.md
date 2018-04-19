@@ -22,11 +22,11 @@
      <td><a href="http://www.igb.cnr.it/"><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="150" width="550"></a></td>
       </tr>
       <tr>
-      <td><a href="http://www.genomix4life.com/it/"><img src="./img/Logo_genomix4life.png" height="100" width="500"></a></td>
+      <td><a href="http://www.genomix4life.com/it/"><img src="./img/logos/Logo_genomix4life.png" height="100" width="500"></a></td>
       <td width="100"></td>
       <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="./img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="450"></a></td>
       <td width="100"></td>
-        <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="./img/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
+        <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="./img/logos/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
         </tr>
         <tr height="50"></tr>
    <tr>
