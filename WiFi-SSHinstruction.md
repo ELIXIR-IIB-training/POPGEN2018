@@ -14,7 +14,9 @@ The filesystem has been generated according to this structure
 
 <img src="./img/directoryscheme.png" alt="yay">
 
+Each has writing permission only in the folder(s) with their name and reading permission to any folder.
 
+ 
 To connect to the INFN machine using SSH from a Linux terminal use:
 
 ```
