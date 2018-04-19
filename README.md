@@ -8,150 +8,109 @@
      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700"></td>
      <tr/>
 </table>
+# EMBO Practical Course
 
-Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
+# Population Genomics: background and tools
 
-Practicals includes computer exercises supervised by lecturers and training assistants. After attending the course participants will be aware of up-to-date concepts in population genetics, capable of running analyses using software based on whole genome data sequences and able to deal with basic aspects of any population genomics project. This Practical Course aims at evolutionary biologists who already have bioinformatics skills. PhD students and Post-Doc researchers will benefit the most out of this course, but applications from all candidates will be evaluated in their context.
+## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics)
 
+## Highlights from the 2017 course [here](EMBOpopgen2017/2017_highligths.md)
+
+<table style="width:100%">
+   <tr>
+     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700"></td>
+     <tr/>
+</table>
+
+<table style="width:100%">
+ <tr>
+   <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
+   <tr/>
+
+</table>
+
+##  #EMBOpopgen
+</table>
+
+<table style="width:100%">
+ <tr>
+   <td><img src="./img/tw.png" alt="yay" height="100" width="100"></td>
+   <tr/>
+
+</table>
+
+
+## Connections
+WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
+
+## Timetable
+
+#### Speakers schedule
+- Andrés Aida 18-22 May
+- Manica Andrea 18-26 May
+- Clark Andrew 18-23 May
+- Hellenthal Garrett 19-26 May
+- Moltke Ida 18-24 May
+- Sikora Martin 23-26 May
+- Currat Mathias 18-26 May
+- Delaneau Olivier 18-21 May
+- Gerbault Pascale 18-24 May
+
+#### All raw data and software are available on the INFN machine
+
+Days |Lessons  | Tutorials |
+------------ | ------------- | ------------- |
+day 1 |[Opening Lecture](day1/EMBOClarkOverview.pdf) |[Linux Tutorial](day1/Academis_Linux.pdf) - [OnePageLinuxManual](day1/OnePageLinuxManual.pdf) |
+day 2 |[Data QC and ExploratoryData Analysis I ](day2/olivier/morning_session_course.pdf)  - [Data QC and ExploratoryData Analysis II ](day2/olivier/afternoon_session_course.pdf)|[practical I](day2/olivier/morning_session_practical.pdf) -  [practical II](day2/olivier/afternoon_session_practical.pdf) -  [commands list I ](day2/olivier/morning_session_practical.sh)  -   [commands list II](day2/olivier/afternoon_session_practical.sh) |
+day 3 |[Genetic Forces](day3/andyclark/EMBO-popgen-Forces-CLARK.pdf) - [Species divergence](day3/aida/EMBO_Napoli_May2017_lectureAidatoprint.pdf) |  [AlleleFreqDyn](day3/andyclark/AlleleFreqDyn.txt) - [InfiniteSites](day3/andyclark/InfiniteSites.txt) - [SampleData1](day3/andyclark/SampleData1.txt)  - [SampleData2](SampleData2.txt) -  [SampleData3](day3/andyclark/SampleData3.txt) - [WFsim](day3/andyclark/WFsim.txt)| - [ELS](day3/aida/Tutorial_ELS.txt) - [MK](day3/aida/Tutorial_MK.txt) |
+day 4 |[Natural Selection](day4/pascale/2017.05.21EMBO_PG.pdf) - [GWAS](day4/andrea/2017EMBOManicaselection.pdf) |[Natural Selection tutorial](day4/pascale/20170521PascalePractical.sh) [Natural Selection data](day4/pascale/20170521EMBO_PGPractical.tar.gz) - [GWAS tutorial](day4/andrea/2017EMBOManicaonGWAS.pdf)|
+day 5 |[Coalescence made fun and easy](day5/andyida/coalescencenotes.pdf) - [Relatedeness Local](day5/ida/RelatednessLocal.pdf) - [Relatedeness Global](day5/ida/RelatednessLocal.pdf) |[Coalescence exercises](day5/andyida/EMBO_CoalescenceExercises.pdf) - [Relatedeness exercises](http://popgen.dk/ida/EMBONaples2017/web/)|
+day 6 |||
+day 7 |[Clustering Lecture](day7/garret/EMBONaples_ClusteringAlgorithmsLecture.pdf) - [F stats](day7/martin/embo_lecture_fstats.pdf) |[Clustering Practical](day7/garret/EMBONaples_ClusteringAlgorithmsPractical.pdf) - [F stats practical](day7/martin/practical)|
+day 8 |[Demography lecture](day8/mathias/MatCurrat_EMBO_PopGen17-lecture.pdf) -  [HapBased-Demography Lecture](day8/garret/EMBONaples_HapBasedDemographyLecture.pdf) | [Demography practicals](day8/mathias/MatCurrat_EMBO_PopGen17-Practicals.pdf) - [HapBased-Demography Practical](day8/garret/EMBONaples_HapBasedDemographyPractical.pdf)|
+day 9 |||
+
+
+## Group Projects
+
+[Project 1](projects/project1.md)
+
+
+## Day trip to Procida
 
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
-      <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
+     <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
      <tr/>
 </table>
 
 
+### Schedule
+
+- 09:30 Meet in the hotel courtyard
+- 10:45 Boat to Procida
 <table style="width:100%">
- <tr>
-    <td><img src="./img/tw.png" alt="yay" height="100" width="100"> <b>#popgenELIXIR</b>  </td>
-   <tr/>
-
-</table>
-
-## Important Dates 
-<p><b>Deadline for applications:</b> 5 February 2018 <br>
-   <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
-   <b>Payment deadline:</b> 10 March 2018<br>  
-   <b>Course date:</b> 21-27 April 2018</p>
-
- 
-## Registration fee: 500€
-<p>Registration fee includes course material, coffee breaks and lunches. <br>
-A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
-Incomplete applications or applications for only parts of the course will not be accepted <br>
-Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
-
-### APPLY NOW [it will open very soon]! 
-
-## Speakers 
-
-<table style="width:100%">
- <tr>
-   <td> 
-      <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a> <br>
-      Max Planck Institute <br>for Evolutionary Anthropology, Germany <br> 
-      <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
-    </td>
-     <td> 
-      <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a><br>
-     University of Cambridge, UK <br>
-     <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
-    </td>
-     <td> 
-      <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a><br>
-      Cornell University, USA<br>
-      <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
-    </td>
-   <tr/>
-   
    <tr>
-    <td> 
-      <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a><br>
-       University College London, UK<br>
-       <img src="./img/speakers/GarrettHellenthalOK.jpg" alt="yay">
-    </td>
-    <td> 
-      <a href="https://idamoltke.wordpress.com/">Ida Moltke</a><br>
-      University of Copenhagen, Denmark<br>
-      <img src="./img/speakers/IdaMoltkeOK.jpg" alt="yay" >
-    </td>
-    <td> 
-      <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a><br>
-       Natural History Museum of Denmark, Denmark<br>
-       <img src="./img/speakers/MartinSikoraOK.jpg" alt="yay">
-    </td>
-    </tr> 
-    <tr> 
-    <td> 
-      <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a><br>
-      Université de Genève, Switzerland<br>
-      <img src="./img/speakers/MathiasCurratOK.jpg" alt="yay" >
-    </td>
-    <td> 
-      <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a><br>
-     Université de Genève, Switzerland<br>
-      <img src="./img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
-    </td>
-    <td> 
-      <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a><br>
-      University of Westminster, UK<br>
-      <img src="./img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
-    </td>
-   <tr/>
+     <td><img src="./img/calata.png" alt="yay" height="400" width="500"></td>
+     <tr/>
 </table>
 
-
-
-## Venue
-<p>Biblioteca <br> Consiglio Nazionale delle Ricerche <br> Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" <br> via Pietro Castellino 111 <br> 80131 Napoli - IT <br> www.igb.cnr.it
-
-## Transport 
-#### HOW TO REACH NAPOLI
-
-#### ARRIVING IN NAPLES BY TRAIN
-
-The central train stations is "Napoli Centrale" or "Napoli Piazza Garibaldi" (the same location). To book a train there are two train companies: Trenitalia and Italo. The train station is connected to the city by the metro Linea1.
-
-#### ARRIVING IN NAPLES BY PLANE
-
-From the International Airport Napoli Capodichino there are two ways to reach the city centre or the train station:
-
-Bus - There is a bus called Alibus that you can take at the airport. Tickets are available on board (4 euros, only cash) or at the newspaper/souvenir shop in the airport ground floor (3 euros) and are valid for metro as well. The bus has two stops: first Piazza Garibaldi i.e. by the central train station, and second is by the city harbour where ships for the gulf islands leave.
-
-Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one of the zones included in the offer. For the city centre or the train station it costs 16 euros, for Vomero area 23 euros. It is mandatory for taxi drivers to apply the fixed fare if required. Ask for the cost before starting the ride.
-
-#### HOW TO REACH THE BIBLIOTECA AT CNR
-
-The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
-
-## Contact
-<p>Email: elixr.popgen.2018@gmail.com <br>
-Phone: +39 0816 132 254 </p>
-
-## Organizers 
+- 11:45 arrival at Procida and walk to Chiesa di Santa Margherita
 
 <table style="width:100%">
- <tr>
-   <td> 
-      <a href="https://allegravia.github.io/website/publications/">Allegra Via  </a> <br>
-      Consiglio Nazionale delle Ricerche, Italy  <br> 
-      <img src="./img/organisers/AllegraVia.jpg" alt="yay" >
-    </td>
-     <td> 
-      <a href="https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/research-and-teaching-staff-pages/chiara-batini">Chiara Batini </a><br>
-     University of Leicester, UK <br>
-     <img src="./img/organisers/ChiaraBatiniOK.jpg" alt="yay" >
-    </td>
-     <td> 
-      <a href="http://www.igb.cnr.it/popgenlab">Vincenza Colonna </a><br>
-      Consiglio Nazionale delle Ricerche, Italy<br>
-      <img src="./img/organisers/VincenzaColonnaOK.jpg" alt="yay" >
-    </td>
-   <tr/>
-   
-  </table>
+   <tr>
+     <td><img src="./img/procidamargherita.png" alt="yay" height="400" width="500"></td>
+     <tr/>
+</table>
+
+- 12:30 lunch
+
+- 13:30 Research Clinics
+- 15:00 Free time on the Island
+- 17:40 Meet at the Porto in Procida
+- 17:55 Boat back to Napoli
+- 18:55 Arrival at Napoli
 
 
 
