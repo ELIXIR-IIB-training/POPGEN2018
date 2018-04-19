@@ -1,7 +1,7 @@
 #### PRACTICAL COURSE
 
 # POPULATION GENOMICS: BACKGROUND AND TOOLS
-### Naples, Italy 21-27 April 2018 
+### Naples, Italy 21-27 April 2018
 
 ## Go to the [official ELIXIR website](https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html)
 
@@ -15,9 +15,9 @@
 
 <table width="700">
    <tr>
-   <td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" alt="yay" height="80" width="700"></a></td>
+   <td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logos/logo_iib.png" alt="yay" height="80" width="700"></a></td>
    <td></td>
-   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="./img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="300"></a></td>
+   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="./img/logos/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="300"></a></td>
    <td width="50"></td>
      <td><a href="http://www.igb.cnr.it/"><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="150" width="550"></a></td>
       </tr>
@@ -26,7 +26,7 @@
       <td width="100"></td>
       <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="./img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="450"></a></td>
       <td width="100"></td>
-        <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="./img/logos/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
+        <td align="right"><a href="http://home.infn.it/en/"><img src="./img/logos/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
         </tr>
         <tr height="50"></tr>
    <tr>
