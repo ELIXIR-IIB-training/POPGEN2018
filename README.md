@@ -3,13 +3,6 @@
 # POPULATION GENOMICS: BACKGROUND AND TOOLS
 ### Naples, Italy 21-27 April 2018 
 
-<table style="width:100%">
-   <tr>
-     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700"></td>
-     <tr/>
-</table>
-
-
 ## Go to the [official ELIXIR website](https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html)
 
 
