@@ -5,14 +5,14 @@
 
 network name: popgen
 
-password: popgen
+password: popgenlab
 
 ##  SSH
 For this course we will work on the High Performance Cluster of the [Istituto Nazionale di Fisica Nucleare](https://www.ba.infn.it/index.php/en/)
 
 The filesystem has been generated according to this structure
 
-<img src="./img/embo-directory-tree.jpg" alt="yay">
+<img src="./img/directoryscheme.png" alt="yay">
 
 
 To connect to the INFN machine using SSH from a Linux terminal use:
