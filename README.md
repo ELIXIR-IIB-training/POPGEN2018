@@ -8,13 +8,10 @@
      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700"></td>
      <tr/>
 </table>
-# EMBO Practical Course
 
-# Population Genomics: background and tools
 
-## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics)
+## Go to the [official ELIXIR website](https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html)
 
-## Highlights from the 2017 course [here](EMBOpopgen2017/2017_highligths.md)
 
 <table style="width:100%">
    <tr>
@@ -29,7 +26,7 @@
 
 </table>
 
-##  #EMBOpopgen
+##  #popgenelixir
 </table>
 
 <table style="width:100%">
@@ -46,15 +43,15 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 ## Timetable
 
 #### Speakers schedule
-- Andrés Aida 18-22 May
-- Manica Andrea 18-26 May
-- Clark Andrew 18-23 May
-- Hellenthal Garrett 19-26 May
-- Moltke Ida 18-24 May
-- Sikora Martin 23-26 May
-- Currat Mathias 18-26 May
-- Delaneau Olivier 18-21 May
-- Gerbault Pascale 18-24 May
+- Andrés Aida 26-27 April
+- Manica Andrea 21-27 April
+- Clark Andrew 21-24 April
+- Hellenthal Garrett 24-25 April
+- Moltke Ida 21-25 April
+- Sikora Martin 23-24 April
+- Currat Mathias 23-26 Aprily
+- Delaneau Olivier 20-22 April
+- Gerbault Pascale 23-26 April
 
 #### All raw data and software are available on the INFN machine
 
@@ -70,47 +67,6 @@ day 7 |[Clustering Lecture](day7/garret/EMBONaples_ClusteringAlgorithmsLecture.p
 day 8 |[Demography lecture](day8/mathias/MatCurrat_EMBO_PopGen17-lecture.pdf) -  [HapBased-Demography Lecture](day8/garret/EMBONaples_HapBasedDemographyLecture.pdf) | [Demography practicals](day8/mathias/MatCurrat_EMBO_PopGen17-Practicals.pdf) - [HapBased-Demography Practical](day8/garret/EMBONaples_HapBasedDemographyPractical.pdf)|
 day 9 |||
 
-
-## Group Projects
-
-[Project 1](projects/project1.md)
-
-
-## Day trip to Procida
-
-
-<table style="width:100%">
-   <tr>
-     <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
-     <tr/>
-</table>
-
-
-### Schedule
-
-- 09:30 Meet in the hotel courtyard
-- 10:45 Boat to Procida
-<table style="width:100%">
-   <tr>
-     <td><img src="./img/calata.png" alt="yay" height="400" width="500"></td>
-     <tr/>
-</table>
-
-- 11:45 arrival at Procida and walk to Chiesa di Santa Margherita
-
-<table style="width:100%">
-   <tr>
-     <td><img src="./img/procidamargherita.png" alt="yay" height="400" width="500"></td>
-     <tr/>
-</table>
-
-- 12:30 lunch
-
-- 13:30 Research Clinics
-- 15:00 Free time on the Island
-- 17:40 Meet at the Porto in Procida
-- 17:55 Boat back to Napoli
-- 18:55 Arrival at Napoli
 
 
 
