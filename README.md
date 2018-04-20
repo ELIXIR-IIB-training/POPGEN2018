@@ -34,6 +34,14 @@
    </tr>
 </table>
 
+## Before we start
+
+- Who am I?
+
+- What is my project about?
+
+- Why am I here?
+
 
 ## Connections
 WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
