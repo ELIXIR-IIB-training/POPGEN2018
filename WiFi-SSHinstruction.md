@@ -16,7 +16,7 @@ The filesystem has been generated according to this structure
 
 Each has writing permission only in the folder(s) with their name and reading permission to any folder.
 
-  
+
 To connect to the INFN machine using SSH from a Linux terminal use:
 
 ```
@@ -25,6 +25,32 @@ ssh -Y yourusername@elixirschool.recas.ba.infn.it
 the -Y tag enable graphical options
 
 Username and password were given to you at the reception
+
+
+## Transfer files from the server to local computers
+
+#### I have a linux computer
+open a terminal and scp to your local machine
+
+```
+scp username@elixirschool.recas.ba.infn.it:/home/username/myfiletotransfer.extension .
+
+```
+
+#### I have a mac
+open a terminal and scp to your local machine
+
+```
+scp username@elixirschool.recas.ba.infn.it:/home/username/myfiletotransfer.extension .
+
+```
+
+in alternative download and use [cyberduck](https://cyberduck.io/)
+
+#### I have a PC
+download and use [winscp](https://winscp.net/eng/download.php) and follow instructions 
+
+
 
 ## Open pdfs on the INFN machine
 
