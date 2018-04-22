@@ -63,7 +63,7 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
-day 1 |||
+day 1 |[Opening Lecture](day1/clark/EMBOClarkOverview.pdf) - [Data QC and ExploratoryData Analysis I](day1/delaneau/session1_course.pdf)|[Linux Tutorial](day1/colonna/Academis_Linux.pdf) - [OnePageLinuxManual](day1/colonna/OnePageLinuxManual.pdf) - [Data QC and ExploratoryData Analysis I](day2/delaneau/session1_practical.pdf)|
 day 2 |||
 day 3 |||
 day 4 |||
