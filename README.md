@@ -64,7 +64,7 @@ Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1 |[Opening Lecture](day1/clark/EMBOClarkOverview.pdf) - [Data QC and ExploratoryData Analysis I](day1/delaneau/session1_course.pdf)|[Linux Tutorial](day1/colonna/Academis_Linux.pdf) - [OnePageLinuxManual](day1/colonna/OnePageLinuxManual.pdf) - [Data QC and ExploratoryData Analysis I](day1/delaneau/session1_practical.pdf)|
 day 2 |[Phasing and Imputation](day2/delaneau/session2_course.pdf)|[Phasing and Imputation](day2/delaneau/session2_practical.pdf)|
-day 3 ||[Coalescence](day3/clark/CoalescenceExercises2018.pdf) - <a href="http://popgen.dk/ida/Naples2018/web/">Relatedenessand IBD</a>|
+day 3 |[Coalescence theory made fun and easy](DerivationofCoalescent_Clark.pptx)|[Coalescence](day3/clark/CoalescenceExercises2018.pdf) - <a href="http://popgen.dk/ida/Naples2018/web/">Relatedenessand IBD</a>|
 day 4 |||
 day 5 |||
 day 6 |||
