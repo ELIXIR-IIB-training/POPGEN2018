@@ -66,7 +66,7 @@ day 1 |[Opening Lecture](day1/clark/EMBOClarkOverview.pdf) - [Data QC and Explor
 day 2 |[Phasing and Imputation](day2/delaneau/session2_course.pdf)|[Phasing and Imputation](day2/delaneau/session2_practical.pdf)|
 day 3 |[Coalescence theory made fun and easy](day3/clark/DerivationofCoalescent_Clark.pptx)|[Coalescence](day3/clark/CoalescenceExercises2018.pdf) - <a href="http://popgen.dk/ida/Naples2018/web/">Relatedenessand IBD</a>|
 day 4 |[Population admixture from genomic data](day4/sikora/lecture_fstats.pdf) | [Admixture Practical 1](day4/sikora/practical1.sh) -  [Admixture Practical 2](POPGEN2018/day4/sikora/practical1.sh)|
-day 5 |[Clustering Algorithms](day5/hellenthal/ClusteringAlgorithmsLecture.pdf)- [Haplotype Based Demography](day5/hellenthal/HapBasedDemographyLecture.pdf) |[Clustering Algorithms](day5/hellenthal/ClusteringAlgoritmsPractical.pdf) - [Haplotype Based Demography Practical](day5/hellenthal/HapBasedDemographyPractical.pdf)|
+day 5 |[Clustering Algorithms](day5/hellenthal/ClusteringAlgorithmsLecture.pdf)- [Haplotype Based Demography](day5/hellenthal/HapBasedDemographyLecture.pdf) |[Clustering Algorithms Practical](day5/hellenthal/ClusteringAlgoritmsPractical.pdf) - [Haplotype Based Demography Practical](day5/hellenthal/HapBasedDemographyPractical.pdf)|
 day 6 |||
 day 7 |||
 
